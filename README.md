@@ -1,5 +1,5 @@
 <h4 align="center">
-  [🚀 Semana OmniStack 10.0](https://rocketseat.com.br)
+  🚀 Semana OmniStack 10.0
 </h4>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/willerrodrigo/dev-radar">
